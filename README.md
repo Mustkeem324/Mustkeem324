@@ -53,7 +53,7 @@ Eager to exchange tales of triumph, share snippets of wisdom, or simply indulge 
 
 - Email: mustkeem324@gmail.com
 - LinkedIn: https://www.linkedin.com/in/mustkeem-ahmad-6531a9160/
-- Telegram: [[My Telegram Channel](https://t.me/cheggnx)]
+- Telegram: [My Telegram Channel](https://t.me/cheggnx)
 
 Join my Telegram channel for exclusive updates, behind-the-scenes insights, and lively discussions on all things tech and creativity. Let's build a vibrant community together! 🚀
 [![Telegram Channel](https://sonusmac.files.wordpress.com/2019/09/join-us-in-telegram-1-360x140.jpg)](https://t.me/cheggnx)
