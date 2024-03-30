@@ -1,4 +1,12 @@
 # Welcome to My GitHub Profile 🌟
+![GitHub repo size](https://img.shields.io/github/repo-size/Mustkeem324/)
+![GitHub contributors](https://img.shields.io/github/contributors/Mustkeem324/)
+![GitHub stars](https://img.shields.io/github/stars/Mustkeem324?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Mustkeem324?style=social)
+![GitHub followers](https://img.shields.io/github/followers/Mustkeem324?style=social)
+![GitHub following](https://img.shields.io/github/following/Mustkeem324?style=social)
+![GitHub repositories](https://img.shields.io/badge/Repositories-%3CNUMBER%3E-blue?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Mustkee54967794?style=social)](https://twitter.com/Mustkee54967794)
 
 ---
 
