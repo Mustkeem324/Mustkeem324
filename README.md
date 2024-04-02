@@ -5,7 +5,33 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/Mustkee54967794?style=social)](https://twitter.com/Mustkee54967794)
 
 ---
+```
+def display_user_info(username, handle, followers, following, location, bio, social_media):
+    print("╔══════════════════════════════════════════════════╗")
+    print("║                User Information                  ║")
+    print("╠══════════════════════════════════════════════════╣")
+    print("║ Username: {:<38} ║".format(username))
+    print("║ Handle: {:<40} ║".format(handle))
+    print("║ Followers: {:<36} ║".format(followers))
+    print("║ Following: {:<36} ║".format(following))
+    print("║ Location: {:<37} ║".format(location))
+    print("║ Bio: {:<41} ║".format(bio))
+    print("║ Social Media: {:<32} ║".format(social_media))
+    print("╚══════════════════════════════════════════════════╝")
 
+# Example user information
+username = "MUSTKEEM AHMAD"
+handle = "Mustkeem324 · he/him"
+followers = "3 followers"
+following = "5 following"
+location = "New Delhi, India"
+bio = "# NX Pro Channel 🚀 Connect with NX Pro for coding tips, project showcases, and tech updates! 💻"
+social_media = "LinkedIn: in/mustkeem-ahmad-6531a9160"
+
+# Display my github information
+display_user_info(username, handle, followers, following, location, bio, social_media)
+
+```
 ## 🎨 About Me
 
 Greetings, fellow coder! 🖥️ I'm Mustkeem Ahmad, a relentless creator hailing from New Delhi. My journey through the digital realm is marked by a profound passion for Developer. With every keystroke, I strive to craft elegant solutions and push the boundaries of innovation.
