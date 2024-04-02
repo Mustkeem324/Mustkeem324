@@ -25,7 +25,7 @@ handle = "Mustkeem324 · he/him"
 followers = "3 followers"
 following = "5 following"
 location = "New Delhi, India"
-bio = "# NX Pro Channel 🚀 Connect with NX Pro for coding tips, project showcases, and tech updates! 💻"
+bio = "# NX Pro Channel 🚀 Connect with NX Pro for coding tips 💻"
 social_media = "LinkedIn: in/mustkeem-ahmad-6531a9160"
 
 # Display my github information
