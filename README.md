@@ -19,7 +19,7 @@ def display_user_info(username, handle, followers, following, location, bio, soc
     print("║ Social Media: {:<32} ║".format(social_media))
     print("╚══════════════════════════════════════════════════╝")
 
-# Example user information
+# information
 username = "MUSTKEEM AHMAD"
 handle = "Mustkeem324 · he/him"
 followers = "3 followers"
@@ -32,6 +32,12 @@ social_media = "LinkedIn: in/mustkeem-ahmad-6531a9160"
 display_user_info(username, handle, followers, following, location, bio, social_media)
 
 ```
+---
+### Output
+
+![Github Information](image.png)
+
+---
 ## 🎨 About Me
 
 Greetings, fellow coder! 🖥️ I'm Mustkeem Ahmad, a relentless creator hailing from New Delhi. My journey through the digital realm is marked by a profound passion for Developer. With every keystroke, I strive to craft elegant solutions and push the boundaries of innovation.
