@@ -36,7 +36,12 @@ Greetings, fellow coder! 🖥️ I'm Mustkeem Ahmad, a relentless creator hailin
 </p>
 
 ---
+#### 📊This Week I Spent My Time On:⏰🕜
+<h3 align="center">
+  
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 
+<a href="https://github.com/avinal/Profile-Readme-WakaTime"><img src="https://github.com/Mustkeem324/Mustkeem324/blob/main/stat.svg" alt=" WakaTime Activity" align=center/></a>
 ## 🚀 What Awaits You Here?
 
 Prepare to embark on a thrilling voyage through a constellation of creativity, innovation, and code wizardry. Nestled within these repositories are gems of my imagination, ranging from whimsical experiments to robust applications. So, loosen your digital moorings and let's set sail!
