@@ -1,5 +1,8 @@
 # Welcome to My GitHub Profile 🌟
 
+<a href="https://komarev.com/ghpvc/?username=Mustkeem324">
+  <img align="right" src="https://komarev.com/ghpvc/?username=Mustkeem324&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a>
 [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
 ![GitHub stars](https://img.shields.io/github/stars/Mustkeem324?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/Mustkeem324?style=social)
