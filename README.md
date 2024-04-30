@@ -8,9 +8,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/Mustkee54967794?style=social)](https://twitter.com/Mustkee54967794)
 
 ---
-<a href="https://komarev.com/ghpvc/?username=Mustkeem324">
-  <img align="right" src="https://komarev.com/ghpvc/?username=Mustkeem324&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
+
 <p align="center"><img src="https://github.com/Mustkeem324/Mustkeem324/blob/main/header_.png">
 
 ---
