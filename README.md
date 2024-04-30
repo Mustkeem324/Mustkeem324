@@ -7,32 +7,7 @@
 
 ---
 
-```python
-def display_user_info(username, handle, followers, following, location, bio, social_media):
-    print("╔══════════════════════════════════════════════════╗")
-    print("║                User Information                  ║")
-    print("╠══════════════════════════════════════════════════╣")
-    print("║ Username: {:<38} ║".format(username))
-    print("║ Handle: {:<40} ║".format(handle))
-    print("║ Followers: {:<36} ║".format(followers))
-    print("║ Following: {:<36} ║".format(following))
-    print("║ Location: {:<37} ║".format(location))
-    print("║ Bio: {:<41} ║".format(bio))
-    print("║ Social Media: {:<32} ║".format(social_media))
-    print("╚══════════════════════════════════════════════════╝")
-
-# information
-username = "MUSTKEEM AHMAD"
-handle = "Mustkeem324 · he/him"
-followers = "3 followers"
-following = "5 following"
-location = "New Delhi, India"
-bio = "# NX Pro Channel 🚀 Connect with NX Pro for coding tips 💻"
-social_media = "LinkedIn: in/mustkeem-ahmad-6531a9160"
-
-# Display my github information
-display_user_info(username, handle, followers, following, location, bio, social_media)
-```
+<p align="center"><img src="https://github.com/Mustkeem324/Mustkeem324/blob/main/header_.png">
 
 ---
 
