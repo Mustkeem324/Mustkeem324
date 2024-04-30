@@ -1,7 +1,5 @@
 # Welcome to My GitHub Profile 🌟
 
-
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
 ![GitHub stars](https://img.shields.io/github/stars/Mustkeem324?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/Mustkeem324?style=social)
 ![GitHub repositories](https://img.shields.io/badge/Repositories-54-blue?style=social)
