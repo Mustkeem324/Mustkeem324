@@ -145,6 +145,9 @@ Venture forth into the realm of collaboration armed with courage, curiosity, and
 Eager to exchange tales of triumph, share snippets of wisdom, or simply indulge in some digital banter? Don't hesitate to reach out through any of the following portals:
 
 <p align="center">
+  <a href="mailto:mustkeem324@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-DC143C?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
  <a href="https://fanswer.net/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
  </a>
