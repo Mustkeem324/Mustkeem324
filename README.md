@@ -144,12 +144,24 @@ Venture forth into the realm of collaboration armed with courage, curiosity, and
 
 Eager to exchange tales of triumph, share snippets of wisdom, or simply indulge in some digital banter? Don't hesitate to reach out through any of the following portals:
 
-- Email: mustkeem324@gmail.com
-- LinkedIn: [Mustkeem Ahmad](https://www.linkedin.com/in/mustkeem-ahmad-6531a9160/)
-- Telegram: [My Telegram Channel](https://t.me/cheggnx)
-- <i class="fas fa-envelope"></i> Email: [mustkeem324@gmail.com](mailto:mustkeem324@gmail.com)
-- <i class="fab fa-linkedin"></i> LinkedIn: [Mustkeem Ahmad](https://www.linkedin.com/in/mustkeem-ahmad-6531a9160/)
-- <i class="fab fa-telegram"></i> Telegram: [My Telegram Channel](https://t.me/cheggnx)
+<p align="center">
+ <a href="https://fanswer.net/" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
+ </a>
+ <a href="https://www.linkedin.com/in/mustkeem-ahmad-6531a9160/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+ </a>
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
+ </a>
+ <a href="https://twitter.com/mustkeem324" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+ </a>
+ <a href="https://instagram.com/mustaqeem_abad" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
+ </a> 
+</p>
+<br/>
 
 Join my Telegram channel for exclusive updates, behind-the-scenes insights, and lively discussions on all things tech and creativity. Let's build a vibrant community together! 🚀
 <p align="center">  <a href="https://t.me/cheggnx"><img width="200" height="80" src="https://i.imgur.com/N7AK7XY.png"></a></p>
