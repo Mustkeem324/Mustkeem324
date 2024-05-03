@@ -90,7 +90,11 @@ Greetings, fellow coder! 🖥️ I'm Mustkeem Ahmad, a relentless creator hailin
 
 Prepare to embark on a thrilling voyage through a constellation of creativity, innovation, and code wizardry. Nestled within these repositories are gems of my imagination, ranging from whimsical experiments to robust applications. So, loosen your digital moorings and let's set sail!
 
-[video](vedio.mp4)
+<video width="640" height="360" controls>
+  <source src="video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ---
 
 ## 🌟 Project Highlights
