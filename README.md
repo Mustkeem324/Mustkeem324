@@ -4,7 +4,10 @@
 ![GitHub followers](https://img.shields.io/github/followers/Mustkeem324?style=social)
 ![GitHub repositories](https://img.shields.io/badge/Repositories-54-blue?style=social)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Mustkee54967794?style=social)](https://twitter.com/Mustkee54967794)
-
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/mustkeem324/count.svg" />
+</p>
 ---
 
 <p align="center"><img src="https://github.com/Mustkeem324/Mustkeem324/blob/main/header_.png">
