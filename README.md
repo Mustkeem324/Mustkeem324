@@ -24,7 +24,7 @@
 
 ## 🎨 About Me
 
-Greetings, fellow coder! 🖥️ I'm Mustkeem Ahmad,
+Hey there! I'm Mustkeem Ahmad, a tech enthusiast who loves creating cool and useful software.
 
 ---
 
