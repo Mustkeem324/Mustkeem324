@@ -16,7 +16,7 @@
 
 ## 🎨 About Me
 
-Greetings, fellow coder! 🖥️ I'm Mustkeem Ahmad, a relentless creator hailing from New Delhi. My journey through the digital realm is marked by a profound passion for development. With every keystroke, I strive to craft elegant solutions and push the boundaries of innovation.
+Greetings, fellow coder! 🖥️ I'm Mustkeem Ahmad, 
 
 ---
 
