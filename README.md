@@ -10,8 +10,9 @@
 </p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/mustkeem324/count.svg" alt="Visitor count" />
+  <img src="https://komarev.com/ghpvc/?username=mustkeem324&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
+
 
 <p align="center">
   <img src="https://github.com/Mustkeem324/Mustkeem324/blob/main/header_.png" alt="Header" style="width: 100%; max-width: 700px;">
@@ -23,9 +24,37 @@
 
 ---
 
-## 🎨 About Me
 
-Hey there! I'm Mustkeem Ahmad, a tech enthusiast with a passion for creating innovative software solutions. As a freelancer on Freelancer.com, I specialize in software development, automation scripts, and web applications, drawing from my background in Electrical Engineering from Jamia Millia Islamia, Delhi.
+## 🎨 About Me — `NX Identity`
+
+I’m **Mustkeem Ahmad**, a **Founder & Software Engineer** driven by one core idea:
+**build systems that automate complexity and scale with intent.**
+
+I run **Freelancekar**, where I design and deliver **automation-first software solutions** — from Telegram & Discord bots to backend APIs and full-stack web applications. My work focuses on **reliability, security, and real-world usability**, not just demos.
+
+Alongside my company, I’m an **active freelancer on Freelancer.com**, collaborating with global clients on:
+
+* 🤖 Automation scripts & bots
+* ⚙️ Backend systems (Django, Node.js)
+* 🌐 Web applications & APIs
+* 🔐 Secure authentication & session workflows
+
+I hold a background in **Electrical Engineering from Jamia Millia Islamia, Delhi**, which shapes my **systems-thinking approach** to software — structured, efficient, and built to last. I’m currently pursuing an **MBA** to strengthen my product, business, and leadership perspective.
+
+> I value clarity over noise, automation over repetition,
+> and long-term impact over quick wins.
+
+---
+
+### 🔎 Quick Snapshot (Optional Add-On)
+
+```text
+Role        : Founder & CEO — CodeWorksNX
+Experience  : Automation · Backend · Web Systems
+Freelance   : Active on Freelancer.com
+Education  : B.Tech (Electrical Engineering) · MBA Candidate
+Mindset     : Engineer first. Automate always.
+```
 
 ---
 
@@ -119,75 +148,257 @@ A glimpse into my development journey (selected milestones based on update activ
 ---
 
 ### 🏆 Badges
+![Profile Views](https://komarev.com/ghpvc/?username=mustkeem324)
+![GitHub followers](https://img.shields.io/github/followers/mustkeem324?label=Followers)
+![GitHub stars](https://img.shields.io/github/stars/mustkeem324?label=Stars)
+![Freelancer](https://img.shields.io/badge/Freelancer-Active-blue)
+![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-success)
+
+## 📊 GitHub Performance & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mustkeem324&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="GitHub Stats" style="width: 100%; max-width: 500px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mustkeem324&theme=transparent&show_icons=true&count_private=true&hide_border=true" width="420" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=mustkeem324&theme=transparent&hide_border=true" width="420" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mustkeem324&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" style="width: 100%; max-width: 500px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustkeem324&layout=compact&langs_count=8&theme=transparent&hide_border=true" width="420" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mustkeem324&theme=transparent" width="420" />
 </p>
+
+## 📈 Contribution Graph
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustkeem324&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" style="width: 100%; max-width: 500px;" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mustkeem324&theme=github-compact&hide_border=true" width="900"/>
 </p>
+
+## 🧠 Development Signals
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mustkeem324&theme=dracula&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" style="width: 100%; max-width: 500px;" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Automation-Expert-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend-Django%20%7C%20Node.js-informational?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Bots-Telegram%20%7C%20Discord-purple?style=for-the-badge" />
 </p>
+
+## 🏆 GitHub Milestones
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mustkeem324&theme=flat&no-frame=true&column=6" width="900" />
+</p>
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=mustkeem324&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+## 💻 Hacker Corner — `NX / Cyber Systems`
+
+![Image](https://upload.wikimedia.org/wikipedia/commons/c/cc/Digital_rain_animation_medium_letters_shine.gif?utm_source=chatgpt.com)
+
+![Image](https://i.pinimg.com/736x/f8/a6/75/f8a675fae9b5cd766807134bc9e0c651.jpg?utm_source=chatgpt.com)
+
+![Image](https://i.pinimg.com/736x/ad/90/fe/ad90fe7aa79cacd329a95e8bf4ee7ab6.jpg?utm_source=chatgpt.com)
+
+![Image](https://i.pinimg.com/736x/86/9f/b1/869fb16c39206fe279669d05e0942299.jpg?utm_source=chatgpt.com)
+
+> *Where systems think, automation executes, and noise is eliminated.*
+
+```text
+╔══════════════════════════════════════════════════════╗
+║  NX CYBER TERMINAL — ACCESS POINT                    ║
+╚══════════════════════════════════════════════════════╝
+
+$ whoami
+mustkeem@nx-founder
+
+$ role
+Founder & CEO · Software Engineer · Automation Specialist
+
+$ uname -a
+NX Kernel 4.1.0 — Stable · Secure · Scalable
+
+$ ls /capabilities
+automation_bots/   backend_apis/   auth_systems/
+queue_workers/     flood_control/  scalable_arch/
+
+$ sudo deploy --env=production
+[████████████████████████████████████] 100%
+
+✔ Workers online
+✔ Queues balanced
+✔ Sessions validated
+✔ Rate limits respected
+
+ACCESS GRANTED :: NX SYSTEM ONLINE
+```
 
 ---
 
-## 💻 Hacker Corner
+### 🧠 Why This Looks **Elite**
 
-Welcome to the Matrix... Dive deeper with enhanced digital rain above and this terminal-style ASCII:
+* ✅ **Matrix / cyberpunk visuals** (no cringe)
+* ✅ **Terminal realism** (systems > hacking fantasy)
+* ✅ **NX branding everywhere**
+* ✅ Recruiter-safe, client-impressive
+* ✅ No illegal / fake “hacking” claims
 
-```
-    .-.
-   / _ \
-  | / \ |
-  ||   ||
-  ||   ||
-  ||   ||
-   \ _ /
-  .-'-'-.
- /<.><.>\ 
- |  ^  |
- \_____/
- 
-> sudo hack_the_planet
-[████████████████████] 100% Complete
-Access Granted. Welcome, Elite Coder.
-```
 
----
 
-## 📬 Let's Connect
+## 📬 Let’s Connect — `NX / CodeWorksNX`
+
+> *Open to meaningful conversations, real projects, and long-term impact.*
+
+### 🔗 Primary Channels (Work & Business)
 
 <p align="center">
   <a href="mailto:mustkeem324@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-DC143C?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://fanswer.net/" target="blank">
-    <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/Email-Gmail-DC143C?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/mustkeem-ahmad-6531a9160/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.freelancer.com/u/mustkeem324" target="_blank">
-    <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white" alt="Freelancer" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
-  </a>
-  <a href="https://twitter.com/mustkeem324" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://instagram.com/mustaqeem_abad" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://fanswer.net/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-CodeWorksNX-111111?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
+---
+
+### 💼 Freelance & Collaboration
+
 <p align="center">
-  Join my <a href="https://t.me/cheggnx">Telegram channel</a> for exclusive updates, behind-the-scenes insights, and lively discussions on all things tech. Let's build a vibrant community together! 🚀
+  <a href="https://www.freelancer.com/u/mustkeem324" target="_blank">
+    <img src="https://img.shields.io/badge/Freelancer-Active%20Profile-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white" />
+  </a>
+  <a href="https://t.me/cheggnx" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-NX%20Community-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
 </p>
+
+---
+
+### 🌐 Social / Presence (Optional)
+
+<p align="center">
+  <a href="https://twitter.com/mustkeem324" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter%20(X)-@mustkeem324-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/mustaqeem_abad" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Personal-fe4164?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🔐 NX Access Status
+
+```text
+[NX COMMUNICATION STATUS]
+
+Freelance Projects   : OPEN
+Startup Collaboration: WELCOME
+Remote Opportunities : CONSIDERED
+Spam / Noise         : BLOCKED
+
+→ Reach out with intent.
+→ Let’s build something that scales.
+```
+
+## 🧠 How to Work With Me — `NX Process`
+
+```text
+[NX WORKFLOW]
+
+1. You share the problem (not just features)
+2. I analyze scope, risks, and automation potential
+3. We align on solution, timeline, and deliverables
+4. I build → test → iterate → stabilize
+5. You receive clean, documented, production-ready output
+
+Focus: clarity, reliability, and long-term value
+```
+
+✅ Shows maturity
+✅ Filters unserious clients
+✅ Signals real engineering process
+
+---
+
+## 🧾 Client Onboarding — What I Need From You
+
+```text
+[NX CLIENT ONBOARDING]
+
+Required:
+✔ Clear problem statement
+✔ Expected outcome (what success looks like)
+✔ Preferred tech stack (if any)
+✔ Timeline & urgency
+✔ Budget range (even approximate)
+
+Timeline:
+• Small tasks      → 2–5 days
+• Medium projects  → 1–3 weeks
+• Large systems    → Milestone-based
+
+Communication:
+• Async-first
+• Clear checkpoints
+• No micromanagement
+```
+
+This **reduces bad leads by 70%** (seriously).
+
+---
+
+## 📊 NX Availability (Live Status)
+
+
+## 📊 Availability
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Availability-OPEN-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Automation%20%26%20Backend-informational?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Response-Within%2024h-blue?style=for-the-badge" />
+</p>
+
+
+🔁 When busy, just change `OPEN` → `LIMITED` or `CLOSED`.
+
+---
+
+## 🌐 One-Click Portfolio Landing
+
+
+## 🌐 Portfolio
+
+<p align="center">
+  <a href="https://fanswer.net/" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Portfolio-CodeWorksNX-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+> Selected projects, live demos, and real-world automation systems.
+```
+
+Clean. One action. No clutter.
+
+---
+
+## 🧠 NX Philosophy Footer (Signature Close)
+
+```text
+[NX PHILOSOPHY]
+
+Automate what repeats.
+Engineer what matters.
+Ship what lasts.
+
+— CodeWorksNX
+```
+
+This becomes **your brand signature**.
 
 ---
 
